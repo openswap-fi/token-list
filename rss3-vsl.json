@@ -1,0 +1,47 @@
+{
+  "name": "RSS3",
+  "tokens": [
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0x05d032ac25d322df992303dca074ee7392c117b9",
+      "chainId": 12553,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "decimals": 6
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0xb62f35b9546a908d11c5803ecbba735abc3e3eae",
+      "chainId": 12553,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "decimals": 6
+    },
+    {
+      "name": "WETH",
+      "symbol": "WETH",
+      "address": "0xb659a97d8ae3c43e91eafe5dba110a7e799157c4",
+      "chainId": 12553,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "decimals": 18
+    },
+    {
+      "name": "IAI",
+      "symbol": "IAI",
+      "address": "0x6180e989125b5f1dbc8b71f167ed64e9a9dda93d",
+      "chainId": 12553,
+      "logoURI": "https://index.ai/assets/img/fav-a8f4592a.ico",
+      "decimals": 18
+    }
+  ],
+  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17917.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "RSS3"
+  ],
+  "timestamp": "2024-03-11T23:18:44.026Z"
+}
